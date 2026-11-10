@@ -5,6 +5,8 @@
 Java backend developer based in Taiwan with 3 years of professional experience building Java web systems, focused on backend services, system maintenance and cross-system integration.
 Beyond work, I run my own Linux server, build automated deployment pipelines, and apply AI to everyday software development.
 
+Portfolio: [jackteng.dev](https://jackteng.dev)
+
 ### Tech Stack
 
 | Area | Technologies |
